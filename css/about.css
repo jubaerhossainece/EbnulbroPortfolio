@@ -209,6 +209,7 @@ body{
 /*   About sections STARTS here  */
 .about1{
 	grid-area: a1;
+	background-color: white;
 	color: #404040;
 	display: flex;
 	justify-content: center;
@@ -349,6 +350,7 @@ body{
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	background-color: white;
 	padding-top: 3vw;
 }
 
@@ -363,6 +365,7 @@ body{
 .interest2{
 	grid-area: i2;
 	display: grid;
+	background-color: white;
 	grid-template-columns: 1fr 1fr;
 	grid-template-areas: 'interest-left interest-right';
 	padding: 4vw;
