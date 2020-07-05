@@ -1,5 +1,6 @@
 body{
-	box-sizing: border-box;;
+	box-sizing: border-box;
+	background-color: white;
 }
 
 
@@ -290,9 +291,9 @@ body{
 }
 
 .job-left2 > img{
-	max-height: 100%;
-	max-width: 100%;
+	max-width: 90%;
 	width: 15vw;
+	height: 9rem;
 }
 
 .job2{
